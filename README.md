@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi Lucas Ramirez👋
+Soy un interesado del análisis de datos en formación, combinando con una sólida base social y analítica para transformar datos en decisiones claras y útiles. 
 
+Actualmente estoy aprendiendo Fundamentos de Data Analytics y mejorando mis habilidades en Excel, Power BI, Python y SQL.
+Me interesa explorar la intersección entre, la visualización de datos y el impacto social.
+Cómo contactarme: [Tu LinkedIn o Lr610935@gmail.com ]
 <!--
 **lr610935-ui/lr610935-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
